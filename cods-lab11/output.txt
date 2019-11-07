@@ -1,0 +1,300 @@
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 2
+[-1, 5, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 3
+[-1, 5, 4, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 4
+[-1, 5, 4, 3, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 5
+[-1, 5, 4, 3, 2, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 2
+[-1, -1, 4, 3, 2, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 3
+[-1, -1, -1, 3, 2, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 4
+[-1, -1, -1, -1, 2, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 7
+[-1, -1, -1, -1, -1, 1, 3, -1, -1, -1]
+Inserindo valor 4 na posição 8
+[-1, -1, -1, -1, -1, 1, 3, 4, -1, -1]
+Inserindo valor 5 na posição 9
+[-1, -1, -1, -1, -1, 1, 3, 4, 5, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 3, 4, 5, -1]
+Retirando valor 3 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 4, 5, -1]
+Retirando valor 4 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 5, -1]
+Retirando valor 5 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 2]
+Retirando valor 2 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 2
+[1, 4, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 4
+[1, 4, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, 4, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 2
+[-1, -1, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, 5, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 5
+[-1, -1, -1, 5, 2, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 4
+[-1, -1, -1, -1, 2, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 7
+[-1, -1, -1, -1, -1, 1, 4, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 1, 4, 3, -1, -1]
+Inserindo valor 5 na posição 9
+[-1, -1, -1, -1, -1, 1, 4, 3, 5, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 4, 3, 5, -1]
+Retirando valor 4 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, 5, -1]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 5, -1]
+Inserindo valor 2 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, 5, 2]
+Retirando valor 5 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 2]
+Retirando valor 2 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 2
+[1, 4, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 4
+[1, 4, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, 4, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 2
+[-1, -1, 3, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, 5, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 5
+[-1, -1, -1, 5, 2, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 4
+[-1, -1, -1, -1, 2, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 7
+[-1, -1, -1, -1, -1, 1, 4, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 1, 4, 3, -1, -1]
+Inserindo valor 5 na posição 9
+[-1, -1, -1, -1, -1, 1, 4, 3, 5, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 4, 3, 5, -1]
+Retirando valor 4 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, 5, -1]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 5, -1]
+Retirando valor 5 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 2]
+Retirando valor 2 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 2
+[1, 3, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 3
+[1, 3, 4, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 4
+[1, 3, 4, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, 3, 4, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 2
+[-1, -1, 4, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 3
+[-1, -1, -1, 5, -1, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 4
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 5
+[-1, -1, -1, -1, 2, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 7
+[-1, -1, -1, -1, -1, 1, 4, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 1, 4, 3, -1, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 4, 3, -1, -1]
+Retirando valor 4 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, -1, -1]
+Inserindo valor 2 na posição 9
+[-1, -1, -1, -1, -1, -1, -1, 3, 2, -1]
+Inserindo valor 5 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, 3, 2, 5]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 2, 5]
+Retirando valor 2 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 5]
+Retirando valor 5 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 2
+[1, 4, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 2
+[-1, -1, 3, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 4
+[-1, -1, 3, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 4
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 5
+[-1, -1, -1, -1, 5, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 7
+[-1, -1, -1, -1, -1, 1, 4, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 1, 4, 3, -1, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 4, 3, -1, -1]
+Retirando valor 4 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, -1, -1]
+Inserindo valor 2 na posição 9
+[-1, -1, -1, -1, -1, -1, -1, 3, 2, -1]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 2, -1]
+Retirando valor 2 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 5]
+Retirando valor 5 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 1
+[1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 2
+[1, 4, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 1
+[-1, 4, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 2
+[-1, -1, 3, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 4
+[-1, -1, 3, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 4
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 5
+[-1, -1, -1, -1, 5, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 6
+[-1, -1, -1, -1, -1, 1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 7
+[-1, -1, -1, -1, -1, 1, 4, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 1, 4, 3, -1, -1]
+Retirando valor 1 da posição 6
+[-1, -1, -1, -1, -1, -1, 4, 3, -1, -1]
+Retirando valor 4 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, -1, -1]
+Inserindo valor 2 na posição 9
+[-1, -1, -1, -1, -1, -1, -1, 3, 2, -1]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, 2, -1]
+Retirando valor 2 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 5]
+Retirando valor 5 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 1
+[4, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 2
+[4, 1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[4, 1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 1
+[-1, 1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 2
+[-1, -1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 4
+[-1, -1, -1, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 4
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 5
+[-1, -1, -1, -1, 5, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 6
+[-1, -1, -1, -1, -1, 4, -1, -1, -1, -1]
+Inserindo valor 1 na posição 7
+[-1, -1, -1, -1, -1, 4, 1, -1, -1, -1]
+Inserindo valor 3 na posição 8
+[-1, -1, -1, -1, -1, 4, 1, 3, -1, -1]
+Retirando valor 4 da posição 6
+[-1, -1, -1, -1, -1, -1, 1, 3, -1, -1]
+Retirando valor 1 da posição 7
+[-1, -1, -1, -1, -1, -1, -1, 3, -1, -1]
+Retirando valor 3 da posição 8
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, 2, -1]
+Retirando valor 2 da posição 9
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, 5]
+Retirando valor 5 da posição 0
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 4 na posição 1
+[4, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 1 na posição 2
+[4, 1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 3 na posição 3
+[4, 1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 4 da posição 1
+[-1, 1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 1 da posição 2
+[-1, -1, 3, -1, -1, -1, -1, -1, -1, -1]
+Retirando valor 3 da posição 3
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 2 na posição 4
+[-1, -1, -1, 2, -1, -1, -1, -1, -1, -1]
+Retirando valor 2 da posição 4
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Inserindo valor 5 na posição 5
+[-1, -1, -1, -1, 5, -1, -1, -1, -1, -1]
+Retirando valor 5 da posição 5
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
