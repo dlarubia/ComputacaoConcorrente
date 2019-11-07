@@ -1,0 +1,32 @@
+Atividade 1:
+
+* Há mudanças na ordem de exxecução das threads? Por que isso ocorre?
+
+Sim. Porque a inicialização das mesmas ocorre de acordo com o tempo compartilhado no sistema operacional. Iniciará primeiro a thread que conseguir tempo de CPU primeiro.
+
+* Qual alteração na execução da aplicação pode ser observada e por que ela ocorre?
+
+A execução da Main não é mais encerrada antes que todas as threads terminem sua execução. Isso ocorre por conta da função .join(). 
+
+
+Atividade 3:
+
+* Qual a seção crítica do código?
+
+A variável 'r', pois a mesma está sendo incrementada sem o devido controle da seção crítica através de exclusão mútua. No caso do java, a utilização do 'synchronized'.
+
+* Os valores impressos foram sempre o valor esperado? Por que?
+
+Não. Visto que valores já incrementados são perdidos por conta da seção crítica.
+
+
+Atividade 4:
+
+* Os valores impressos foram sempre o valor esperado? Por que?
+
+Sim. Através da utilização do 'synchronized', as funções executadas pelas threads só têm acesso à variável 'r' de forma exclusiva, fazendo com que a mesma não tenha seu valor indevidamente alterado por conta de acesso mútuo.
+
+
+Atividade 5:
+
+Implementar um programa concorrente para somar dois vetores, fazendo C = A + B. Considere que o número de threads é o menor ou igual ao número de elementos dos vetores. Divida a tarefa entre as threads de forma balanceada. 
