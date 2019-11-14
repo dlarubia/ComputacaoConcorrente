@@ -1,0 +1,19 @@
+Laboratório 12 -- Repostas
+
+* Atividade 1:
+	
+a) Os valores impressos foram sempre o valor esperado?
+
+Sim. Como o semáforo está sendo utilizado para previnir a ocorrência de entrada simultânea na seção crítica, não há problemas em relação ao resultado final das operações por não haver interferência das threads em suas operações.
+
+* Atividade 2:
+
+a) O valor final de y variou? Por que?
+
+Como os sinais impedem que as funções t2 seja concluída antes da t1 e t3 seja concluída antes da t2, não ocorre variação no valor final de y (que é sempre 2). Nesse caso está sendo utilizado os semáforos de condição para ordenar a execução das funções do programa.
+
+b) Após alterar o valor de inicialização dos semáforos de 0 para 1, execute o programa várias vezes e observe os resultados impressos na tela. O que aconteceu e por que?
+
+Como os semáforos estão sendo inicializados com o valor 1, os mesmos são semáforos binários e comumente são utilizados para implementar sincronização por exclusão mútua. O problema é que, embora a seção crítica seja respeitada, a ordem de inicialização das funções não é, o que faz com que o programa esteja sempre gerando um valor diferente de y. 
+
+
