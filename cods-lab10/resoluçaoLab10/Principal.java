@@ -46,12 +46,12 @@ class SomaVetor implements Runnable {
 
 class Principal {
     static final int N = 10;
+    static final Vetor vetorA = new Vetor(20);
+    static final Vetor vetorB = new Vetor(20);
+    static final Vetor vetorC = new Vetor(20);
 
     public static void main (String[] args) {
         Thread[] threads = new Thread[N];
-        Vetor vetorA = new Vetor(20);
-        Vetor vetorB = new Vetor(20);
-        Vetor vetorC = new Vetor(20);
 
         for(int i = 0; i < threads.length; i++) {
             threads[i] = new Thread(new SomaVetor(vetorA, vetorB, vetorC, N, i));
